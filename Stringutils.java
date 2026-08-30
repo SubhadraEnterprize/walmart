@@ -1,2 +1,5 @@
 Hi Guys. This files contains string related functions.
-Add this line..
+
+I am Subhadra Rani Enterprises.
+And i am software engineer.
+
